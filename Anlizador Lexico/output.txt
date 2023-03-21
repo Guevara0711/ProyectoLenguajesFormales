@@ -1,0 +1,91 @@
+{'lexema': 'Hola', 'tipo': 'Palabra'}
+{'lexema': 'Mundo', 'tipo': 'Palabra'}
+{'lexema': '!', 'tipo': 'Signo de puntuacion'}
+{'lexema': '1', 'tipo': 'Numero'}
+{'lexema': ',', 'tipo': 'Signo de puntuacion'}
+{'lexema': '.', 'tipo': 'Signo de puntuacion'}
+{'lexema': ':', 'tipo': 'Signo de puntuacion'}
+{'lexema': ';', 'tipo': 'Signo de puntuacion'}
+{'lexema': 'print', 'tipo': 'Palabra'}
+{'lexema': 'init', 'tipo': 'Palabra'}
+{'lexema': 'if', 'tipo': 'Palabra'}
+{'lexema': '#', 'tipo': 'Signo de puntuacion'}
+{'lexema': 'Lorem', 'tipo': 'Palabra'}
+{'lexema': 'ipsum', 'tipo': 'Palabra'}
+{'lexema': 'dolor', 'tipo': 'Palabra'}
+{'lexema': 'sit', 'tipo': 'Palabra'}
+{'lexema': 'amet', 'tipo': 'Palabra'}
+{'lexema': ',', 'tipo': 'Signo de puntuacion'}
+{'lexema': 'consectetur', 'tipo': 'Palabra'}
+{'lexema': 'adipiscing', 'tipo': 'Palabra'}
+{'lexema': 'elit', 'tipo': 'Palabra'}
+{'lexema': ',', 'tipo': 'Signo de puntuacion'}
+{'lexema': 'sed', 'tipo': 'Palabra'}
+{'lexema': 'do', 'tipo': 'Palabra'}
+{'lexema': 'eiusmod', 'tipo': 'Palabra'}
+{'lexema': 'tempor', 'tipo': 'Palabra'}
+{'lexema': 'incididunt', 'tipo': 'Palabra'}
+{'lexema': 'ut', 'tipo': 'Palabra'}
+{'lexema': 'labore', 'tipo': 'Palabra'}
+{'lexema': 'et', 'tipo': 'Palabra'}
+{'lexema': 'dolore', 'tipo': 'Palabra'}
+{'lexema': 'magna', 'tipo': 'Palabra'}
+{'lexema': 'aliqua', 'tipo': 'Palabra'}
+{'lexema': '.', 'tipo': 'Signo de puntuacion'}
+{'lexema': 'Ut', 'tipo': 'Palabra'}
+{'lexema': 'enim', 'tipo': 'Palabra'}
+{'lexema': 'ad', 'tipo': 'Palabra'}
+{'lexema': 'minim', 'tipo': 'Palabra'}
+{'lexema': 'veniam', 'tipo': 'Palabra'}
+{'lexema': ',', 'tipo': 'Signo de puntuacion'}
+{'lexema': 'quis', 'tipo': 'Palabra'}
+{'lexema': 'nostrud', 'tipo': 'Palabra'}
+{'lexema': 'exercitation', 'tipo': 'Palabra'}
+{'lexema': 'ullamco', 'tipo': 'Palabra'}
+{'lexema': 'laboris', 'tipo': 'Palabra'}
+{'lexema': 'nisi', 'tipo': 'Palabra'}
+{'lexema': 'ut', 'tipo': 'Palabra'}
+{'lexema': 'aliquip', 'tipo': 'Palabra'}
+{'lexema': 'ex', 'tipo': 'Palabra'}
+{'lexema': 'ea', 'tipo': 'Palabra'}
+{'lexema': 'commodo', 'tipo': 'Palabra'}
+{'lexema': 'consequat', 'tipo': 'Palabra'}
+{'lexema': '.', 'tipo': 'Signo de puntuacion'}
+{'lexema': 'Duis', 'tipo': 'Palabra'}
+{'lexema': 'aute', 'tipo': 'Palabra'}
+{'lexema': 'irure', 'tipo': 'Palabra'}
+{'lexema': 'dolor', 'tipo': 'Palabra'}
+{'lexema': 'in', 'tipo': 'Palabra'}
+{'lexema': 'reprehenderit', 'tipo': 'Palabra'}
+{'lexema': 'in', 'tipo': 'Palabra'}
+{'lexema': 'voluptate', 'tipo': 'Palabra'}
+{'lexema': 'velit', 'tipo': 'Palabra'}
+{'lexema': 'esse', 'tipo': 'Palabra'}
+{'lexema': 'cillum', 'tipo': 'Palabra'}
+{'lexema': 'dolore', 'tipo': 'Palabra'}
+{'lexema': 'eu', 'tipo': 'Palabra'}
+{'lexema': 'fugiat', 'tipo': 'Palabra'}
+{'lexema': 'nulla', 'tipo': 'Palabra'}
+{'lexema': 'pariatur', 'tipo': 'Palabra'}
+{'lexema': '.', 'tipo': 'Signo de puntuacion'}
+{'lexema': 'Excepteur', 'tipo': 'Palabra'}
+{'lexema': 'sint', 'tipo': 'Palabra'}
+{'lexema': 'occaecat', 'tipo': 'Palabra'}
+{'lexema': 'cupidatat', 'tipo': 'Palabra'}
+{'lexema': 'non', 'tipo': 'Palabra'}
+{'lexema': 'proident', 'tipo': 'Palabra'}
+{'lexema': ',', 'tipo': 'Signo de puntuacion'}
+{'lexema': 'sunt', 'tipo': 'Palabra'}
+{'lexema': 'in', 'tipo': 'Palabra'}
+{'lexema': 'culpa', 'tipo': 'Palabra'}
+{'lexema': 'qui', 'tipo': 'Palabra'}
+{'lexema': 'officia', 'tipo': 'Palabra'}
+{'lexema': 'deserunt', 'tipo': 'Palabra'}
+{'lexema': 'mollit', 'tipo': 'Palabra'}
+{'lexema': 'anim', 'tipo': 'Palabra'}
+{'lexema': 'id', 'tipo': 'Palabra'}
+{'lexema': 'est', 'tipo': 'Palabra'}
+{'lexema': 'laborum', 'tipo': 'Palabra'}
+{'lexema': '.', 'tipo': 'Signo de puntuacion'}
+{'lexema': 'hi', 'tipo': 'Palabra en ingles'}
+{'lexema': 'what', 'tipo': 'Pregunta en ingles'}

@@ -1,0 +1,102 @@
+Tokens encontrados: 
+Palabra en ingles: hello 
+Palabra en ingles: hi 
+Pregunta en ingles: how 
+Numero: 1 
+Palabra: want 
+Palabra: to 
+Palabra: learn 
+Palabra: spanish 
+Palabra en ingles: hello 
+Palabra: the 
+Palabra: cat 
+Palabra: wants 
+Palabra: to 
+Palabra: learn 
+Palabra: spanish 
+Palabra: buenos 
+Palabra: dias 
+Signo de puntuacion: , 
+Pregunta en español: como 
+Palabra: estas 
+Signo de puntuacion: ? 
+Palabra: buenos 
+Palabra: dias 
+Signo de puntuacion: . 
+Palabra: iridiodeshecho 
+Pregunta en español: que 
+Pregunta en español: quien 
+Palabra en español: hola 
+Palabra: me 
+Palabra: llamo 
+Pregunta en español: como 
+Palabra: estas 
+Signo de puntuacion: ? 
+Pregunta en ingles: how 
+Palabra: el 
+Palabra: perro 
+Palabra: corre 
+Palabra: en 
+Palabra: el 
+Palabra: parque 
+Palabra: the 
+Palabra: dog 
+Palabra: runs 
+Palabra: in 
+Palabra: the 
+Palabra: park 
+Errores encontrados: 
+Error:   
+Error:   
+Error:   
+Error:   
+Error:   
+Error:   
+Error:   
+Error:   
+Error:   
+Error: 
+ 
+Error:   
+Error:   
+Error:   
+Error:   
+Error:   
+Error: 
+ 
+Error:   
+Error:   
+Error:   
+Error: 
+ 
+Error:   
+Error: 
+ 
+Error:   
+Error:   
+Error:   
+Error: 
+ 
+Error:   
+Error:   
+Error:   
+Error:   
+Error: 
+ 
+Error: 
+ 
+Error:   
+Error:   
+Error:   
+Error:   
+Error:   
+Error:   
+Error: 
+ 
+Error:   
+Error:   
+Error:   
+Error:   
+Error:   
+Error: 
+ 
